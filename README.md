@@ -4,9 +4,9 @@ Docker LEMP boilerplate for use with docker-compose
 Use this boilerplate for persistent database project.
 
 This is CentOS 7 linux based that uses 3 docker images:
-  - paradigma/c7-mariadb
-  - paradigma/c7-php-fpm
-  - paradigma/c7-nginx
+  - [paradigma/c7-mariadb](https://hub.docker.com/r/paradigma/c7-mariadb/)
+  - [paradigma/c7-php-fpm](https://hub.docker.com/r/paradigma/c7-php-fpm/)
+  - [paradigma/c7-nginx](https://hub.docker.com/r/paradigma/c7-nginx/)
 
 You can customize the virtual host NGINX config file.
 
